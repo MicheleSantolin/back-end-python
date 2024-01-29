@@ -35,6 +35,7 @@ meu_carro.acelera()
 ###VOCÊ TAMBÉM PODE ACELERAR ELE ASSIM:
 ##[meu_carro.acelera() for _ in range(5)]
 
+
 print(f"Velocidade atual:", meu_carro.velocidade)
 
 # Faça o carro "parar" utilizando os métodos da sua classe.
